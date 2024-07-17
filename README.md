@@ -1,16 +1,33 @@
-## Hi there 👋
+# Bienvenido a mi Perfil de GitHub
 
-<!--
-**ROGO2108/ROGO2108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre Mí
 
-Here are some ideas to get you started:
+Profesional con [Años de Experiencia] en el campo de [Tu Industria]. Especializado en [Tu Especialidad] y apasionado por [Tu Interés Profesional].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Rol Actual:** [Tu Rol]
+- **Empresa:** [Tu Empresa]
+- **Ubicación:** [Tu Ubicación]
+
+### Competencias
+
+- **Lenguajes de Programación:** Python, Java, SQL
+- **Frameworks y Librerías:** Angular, Django, Spring
+- **Herramientas:** Git, Jenkins, AWS
+
+### Proyectos Destacados
+
+1. **[Nombre del Proyecto]**
+   - Descripción breve del proyecto.
+   - Tecnologías utilizadas: [Tecnologías]
+
+2. **[Nombre del Proyecto]**
+   - Descripción breve del proyecto.
+   - Tecnologías utilizadas: [Tecnologías]
+
+### Contacto
+
+- **Email:** [Tu Email]
+- **LinkedIn:** [Tu LinkedIn]
+
+---
+© [Año Actual] [Tu Nombre]. Todos los derechos reservados.
