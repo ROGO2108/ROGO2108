@@ -2,11 +2,11 @@
 
 ### Sobre Mí
 
-Profesional con [Años de Experiencia] en el campo de [Tu Industria]. Especializado en [Tu Especialidad] y apasionado por [Tu Interés Profesional].
+Profesional con 5 años de experiencia en el campo de Riesgos financieros. Especializado en riesgos de crédito y apasionado por los datos y el analisis.
 
-- **Rol Actual:** [Tu Rol]
-- **Empresa:** [Tu Empresa]
-- **Ubicación:** [Tu Ubicación]
+- **Rol Actual:** Especialista de Riesgos
+- **Empresa:** Microfinanciera
+- **Ubicación:** Floridablanca
 
 ### Competencias
 
