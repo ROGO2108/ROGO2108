@@ -1,8 +1,8 @@
-# Bienvenido a mi Perfil de GitHub
+# Hola, Sor Orlando Rozo  
 
 ### Sobre Mí
 
-Profesional con 5 años de experiencia en el campo de Riesgos financieros. Especializado en riesgos de crédito y apasionado por los datos y el analisis.
+Profesional en el campo de Riesgos financieros. Especializado en riesgos de crédito y apasionado por los datos y el analisis.
 
 - **Rol Actual:** Especialista de Riesgos
 - **Empresa:** Microfinanciera
@@ -10,19 +10,7 @@ Profesional con 5 años de experiencia en el campo de Riesgos financieros. Espec
 
 ### Competencias
 
-- **Lenguajes de Programación:** Python, Java, SQL
-- **Frameworks y Librerías:** Angular, Django, Spring
-- **Herramientas:** Git, Jenkins, AWS
-
-### Proyectos Destacados
-
-1. **[Nombre del Proyecto]**
-   - Descripción breve del proyecto.
-   - Tecnologías utilizadas: [Tecnologías]
-
-2. **[Nombre del Proyecto]**
-   - Descripción breve del proyecto.
-   - Tecnologías utilizadas: [Tecnologías]
+- **Lenguajes de Programación:** Python, SQL
 
 ### Contacto
 
@@ -30,4 +18,4 @@ Profesional con 5 años de experiencia en el campo de Riesgos financieros. Espec
 - **LinkedIn:** [Tu LinkedIn]
 
 ---
-© [Año Actual] [Tu Nombre]. Todos los derechos reservados.
+© 2024 Orlando Rozo. Todos los derechos reservados.
