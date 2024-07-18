@@ -1,4 +1,4 @@
-# Hola, Sor Orlando Rozo  
+# Hola, Soy Orlando Rozo  
 
 ### Sobre Mí
 
